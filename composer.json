@@ -1,5 +1,5 @@
 {
-    "name":             "pattern-lab/edition-drupal-standard",
+    "name":             "alamowo/edition-drupal-standard",
     "description":      "Standard Edition of Pattern Lab for Drupal.",
     "keywords":         ["pattern lab", "drupal"],
     "homepage":         "http://patternlab.io",
@@ -7,21 +7,16 @@
     "type":             "pattern-lab",
     "authors": [
         {
-            "name":         "Dave Olsen",
-            "email":        "dmolsen@gmail.com",
-            "homepage":     "http://dmolsen.com",
-            "role":         "Lead Developer"
-        },
-        {
-            "name":         "Evan Lovely",
-            "homepage":     "http://evanlovely.com",
-            "role":         "Developer"
+            "name":         "Alexander Martin",
+            "email":        "alexander.martin@ueberbit.de",
+            "homepage":     "http://ueberbit.de",
+            "role":         "Frontend Developer"
         }
     ],
     "support": {
-        "issues":         "https://github.com/pattern-lab/edition-drupal-standard/issues",
+        "issues":         "https://github.com/alamowo/edition-drupal-standard/issues",
         "wiki":           "http://patternlab.io/docs/",
-        "source":         "https://github.com/pattern-lab/edition-drupal-standard/releases"
+        "source":         "https://github.com/alamowo/edition-drupal-standard/releases"
     },
     "autoload": {
         "psr-0": {
